@@ -4,7 +4,7 @@ Network Setting In Kali Linux
 IP Address
  Command :- sudo ifconfig -a
 IP address and Netmask Network Configuration
- Command:- sudo ifconfig eth0 192.168.1.10 netmask 255.255.255.0
+ Command:- sudo ifconfig eth0 192.168.56.101 netmask 255.255.255.0
 Configure Services In Kali Linux
  Command :- service ssh start
  Command :- ssh username@hostname
