@@ -12,7 +12,7 @@ Command:-home/kali/dir_name 127.0.0.1(rw)
 [rw-gives read write permission to the file]
 Step5:-Use the below code it will create a table and keep the track of
 records.
-command:-sudo export -ra
+command:-sudo exportfs -ra
 Step6:-If you don't have nfs-common then install it
 Command:-sudo apt-get -y install nfs-common
 Step7:-Mount the file you want to transfer in other directory
